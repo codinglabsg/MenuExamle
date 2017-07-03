@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Menu Example Apps</string>
+    <string-array name="context_call">
+        <item>Call Me</item>
+        <item>Email Me</item>
+        <item>SMS Me</item>
+    </string-array>
+    <string-array name="doc_list">
+        <item>File 1</item>
+        <item>File 2</item>
+        <item>File 3</item>
+    </string-array>
+
+
+</resources>
